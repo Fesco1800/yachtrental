@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-Italic.eot');
+    src: url('hinted-PlayfairDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-Italic.woff') format('woff'),
+        url('hinted-PlayfairDisplay-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-Regular.eot');
+    src: url('hinted-PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-Regular.woff') format('woff'),
+        url('hinted-PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-BlackItalic.eot');
+    src: url('hinted-PlayfairDisplay-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-BlackItalic.woff') format('woff'),
+        url('hinted-PlayfairDisplay-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-BoldItalic.eot');
+    src: url('hinted-PlayfairDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-BoldItalic.woff') format('woff'),
+        url('hinted-PlayfairDisplay-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-Black.eot');
+    src: url('hinted-PlayfairDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-Black.woff') format('woff'),
+        url('hinted-PlayfairDisplay-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('hinted-PlayfairDisplay-Bold.eot');
+    src: url('hinted-PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('hinted-PlayfairDisplay-Bold.woff') format('woff'),
+        url('hinted-PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
